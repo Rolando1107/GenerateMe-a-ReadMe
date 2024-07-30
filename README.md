@@ -33,7 +33,7 @@
   
   ## Contributing
   
-  We welcome contributions from the community! To contribute to GenerateMe-a-ReadMe, please follow these steps:Fork the repository.Create a new branch for your feature or bugfix.Commit your changes and push the branch to your fork.Submit a pull request with a detailed description of your changes.Please ensure that your code adheres to our coding standards and includes appropriate tests. Review our contribution guidelines in the CONTRIBUTING.md file for more information.
+  We welcome contributions from the community! To contribute to GenerateMe-a-ReadMe, please follow these steps:Fork the repository.Create a new branch for your feature or bugfix. Commit your changes and push the branch to your fork. Submit a pull request with a detailed description of your changes. Please ensure that your code adheres to our coding standards and includes appropriate tests. .
   
   ## Tests
   
