@@ -18,7 +18,7 @@
   
   ## Installation
   
-  # Clone the repositorygit clone https://github.com/username/GenerateMe-a-ReadMe.git# 
+  # Clone the repositorygit clone https://github.com/Rolando1107/GenerateMe-a-ReadMe.git# 
   # Navigate to the project directory 
   # cd GenerateMe-a-ReadMe
   # Install dependenciesnpm install
