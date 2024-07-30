@@ -42,5 +42,6 @@
   ## Questions
   
   If you have any questions about the project, you can contact me at [rolandomendoza@rocketmail.com](mailto:rolandomendoza@rocketmail.com). You can also find more of my work at [Rolando1107](https://github.com/Rolando1107).
+  Click this link for a video tutorial on how to use this repo
   https://drive.google.com/uc?id=1E5EWTnUwnQLkhC0XNhiSvYKQFZLxBIuB&export=download
   
